@@ -1,2 +1,17 @@
-# To-Do-List
-A simple task management application that allows users to add, delete, and mark tasks as completed. The app helps users organize daily activities efficiently with an interactive UI and dynamic updates using JavaScript.
+# 📝 To-Do List App
+
+## Description
+A simple app to manage daily tasks.
+
+## Features
+- Add tasks
+- Delete tasks
+- Mark tasks as completed
+
+## Technologies Used
+- HTML
+- CSS
+- JavaScript
+
+## How to Run
+Open index.html in browser
